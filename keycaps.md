@@ -21,15 +21,14 @@ Enter key [heart](https://www.aliexpress.com/item/1005003679800443.html)
 
 GMK [Bento 5 side](https://www.aliexpress.com/item/1005003924210118.html)  
 GMK [Striker 5 side](https://www.aliexpress.com/item/1005002985637444.html)  
-GMK [Striker DS](https://www.aliexpress.com/item/1005003618377793.html)  
-GMK [Apollo](https://www.aliexpress.com/item/1005003717852080.html)  
+GMK [Striker DS](https://www.aliexpress.com/item/1005003618377793.html) - quite popular in the hobby, possibly because [Tfue's keyboard](https://www.youtube.com/watch?v=u3Fy4PkpTVs)  
+GMK [Apollo](https://www.aliexpress.com/item/1005003717852080.html) - one of my favorites, probably because of 3ildcat's [video](https://www.youtube.com/watch?v=xfbrn4ua-R8)  
 GMK [Hammerhead](https://www.aliexpress.com/item/1005003786564086.html)  
 GMK [Outer Space](https://www.aliexpress.com/item/1005003194196299.html) (cute!)  
 GMK [9009](https://www.aliexpress.com/item/1005003102602764.html), [second link](https://www.aliexpress.com/item/1005003256383354.html)  
 GMK [Taro](https://www.aliexpress.com/item/1005003661587658.html) (purple!)  
-GMK [Blue Samurai](https://www.aliexpress.com/item/1005003686295620.html)  
+GMK [Blue Samurai](https://www.aliexpress.com/item/1005003686295620.html) - colors look really off but in a nice way  
 GMK [Monster](https://www.aliexpress.com/item/1005003680958716.html) (teal!)  
-GMK [Shoko](https://www.aliexpress.com/item/1005003827546074.html) (smol)  
 GMK [Master Branch](https://www.aliexpress.com/item/1005003720996919.html) (8008, Striker, DMG, Olivia, Arctic, Merlin, Monster, Bingsu, BOW, WOB, Jamon, Apollo, Aero, Blue & Red Samurai, Black Lotus, Hammerhead Light & Dark, Royal, Heavy, Botanical, Shoko, Nautilus, Mars Green, Taro, EVA-01, Denim, Peach Blossom, Matrix - 01)
 
 *Domikey is a legit company, making quite good quality keycaps which aren't that cheap.*  
@@ -37,19 +36,21 @@ Domikey [Astronaut](https://www.aliexpress.com/item/1005003492087895.html?spm=a2
 Domikey [Hush](https://www.aliexpress.com/item/1005003776369543.html?spm=a2g0o.store_pc_groupList.8148356.71.37477ad0lvBGjf)  
 Domikey [Miami Nights](https://www.aliexpress.com/item/1005003624015078.html?spm=a2g0o.store_pc_groupList.8148356.9.67d25f062KHt6O)
 
+*ePBT is one of the main keycap manufacturers together with GMK, main difference being using PBT instead of ABS plastic*  
 ePBT [Wuyinzhuyin](https://www.aliexpress.com/item/1005003578515049.html?spm=a2g0o.store_pc_groupList.8148356.5.796b791cCvOa4x)
 
 Akko [Cherry Profile](https://www.aliexpress.com/item/1005003171635439.html) (Silent, Blackpink, 9009)  
 
 ### Other profiles
 
-KPRepublic DSA [Vintage Apple](https://www.aliexpress.com/item/1005004122450169.html)  
+KPRepublic DSA [Vintage Apple](https://www.aliexpress.com/item/1005004122450169.html) - old Apple font is quite popular overall  
 KPRepublic XDA [9009](https://www.aliexpress.com/item/1005003131831355.html?spm=a2g0o.store_pc_groupList.8148356.19.37477ad0lvBGjf)
 
 ePBT OEM [Dreamscape](https://www.aliexpress.com/item/1005002618729143.html)  
+GMK [Shoko](https://www.aliexpress.com/item/1005003827546074.html) OEM (smol letters)
+
 KBDFans NP PBT [Vintage Apple](https://www.aliexpress.com/item/1005002317644165.html?spm=a2g0o.store_pc_groupList.8148356.23.796b791cCvOa4x)
 
-Akko [Cherry Profile](https://www.aliexpress.com/item/1005003171635439.html) (Silent, Blackpink, 9009)  
 Akko [ASA Profile](https://www.aliexpress.com/item/1005003171794916.html) (01, Blackpink, Matcha, Midnight, Macaw, Wave, 9009, Neon)
 
 ### Misc
