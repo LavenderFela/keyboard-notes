@@ -1,3 +1,1 @@
-# Notes
-
-*Personal public pastebin for things related to custom keyboards.*
+*messy pastebin for keyboard related useful links, enjoy!*
