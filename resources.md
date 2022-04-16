@@ -1,6 +1,6 @@
 ![overall](https://user-images.githubusercontent.com/99119828/163674358-8f5bee7a-dd30-40bf-8e91-51580816a9ce.png)
 
-## Basics
+## Custom keyboards explained
 
 Why go custom instead of buying a prebuilt - [long](https://www.youtube.com/watch?v=Qr3nYR15wxU) and [short](https://www.youtube.com/watch?v=aeqnEJpPZVY) explanation by TaehaTypes
 
