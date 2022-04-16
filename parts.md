@@ -2,7 +2,8 @@
 
 Smallest layout for Lithuanians is 50% ortho (almost nonexistant) or HHKB due to need to use numrow for Lithuanian symbols; Backslash key usually can be used as Delete, quite convenient and feels about right; Caps Lock can be used as Ctrl (for WKL/HHKB) or Fn key.
 
-## 60% and HHKB
+## 60% and HHKB  
+![wkl](https://user-images.githubusercontent.com/99119828/163672807-3bb217bd-ec55-4072-aca8-6be2f1294d1b.png)
 
 *Perfect layout if you hate yourself. No Home/End keys, writing with it is as frustrating as it sounds.*
 
@@ -34,6 +35,10 @@ Just check same vendor when buying the case, should have some options.
 
 ## 65%
 
+![65](https://user-images.githubusercontent.com/99119828/163672822-49b55879-727a-43d3-834b-f113b0573c22.png)
+
+*Additional column, usually used for 2xMacros + Home/End while using Delete on Backslash. Arrow blocker highly appreciated, helps when touch typing.*
+
 #### Kits
 
 KBD67 Lite R3 - [Keygem](https://keygem.store/products/r3-kbd67-lite-mechanical-keyboard-kit?_pos=3&_sid=8117d96e1&_ss=r) and [Candykeys](https://candykeys.com/product/kbd67-lite-r3-ANSI)  
@@ -42,7 +47,9 @@ KBD67 Lite R3 - [Keygem](https://keygem.store/products/r3-kbd67-lite-mechanical-
 
 [Keychron Q2](https://candykeys.com/product/keychron-q2-ansi) - exploded layout, chonky bezels, good gaskets, QMK/VIA support, decent stock stabs, good deal overall
 
-[ID67](https://www.aliexpress.com/item/1005002871249832.html?spm=a2g0o.store_pc_groupList.8148356.1.7175b037ix029l) - very stiff, quite pingy, require modding  
+[ID67](https://www.aliexpress.com/item/1005002871249832.html?spm=a2g0o.store_pc_groupList.8148356.1.7175b037ix029l) - very stiff, quite pingy, requires modding  
+[ID67 V2](https://keygem.store/collections/idobao/products/idobao-id67-v2) - has acrylic bottom, probably that's about it; integrated plate is quite stiff
+[ID67 Crystal](https://keygem.store/collections/idobao/products/idobao-id67-crystal-ansi) - Acrylic or PC, gasket mounted
 
 [BM65](https://www.aliexpress.com/item/1005002133981307.html?) Hotswap - QMK, Screw In stabilizers, arrows blocker but north facing switches, not worth over KBD67 Lite
 
@@ -61,7 +68,15 @@ Tofu65 [E-White](https://keygem.store/collections/case/products/tofu-65-case-e-w
 
 [KBD67 V3](https://keygem.store/collections/case/products/kbd67-v3-gasket-mount-aluminum-case) Gasket Mount - gasket mounted, premium experience, expensive
 
+#### Plates
+
+Just check same vendor when buying the case, should have some options.
+
 ## 75%
+
+![75](https://user-images.githubusercontent.com/99119828/163672869-6c74e4b4-2647-4255-b7c6-ee6ecc6432a9.png)
+
+*65% but with F Row if you need it, otherwise just a bit chonky looking layout.*
 
 #### Kits
 
@@ -69,10 +84,41 @@ Tofu65 [E-White](https://keygem.store/collections/case/products/tofu-65-case-e-w
 
 ID80 - Candykeys [V1](https://candykeys.com/product/idobao-id80-75-hot-swappable-mechanical-keyboard), [V2](https://candykeys.com/product/idobao-id80v2) and [Aliexpress](https://www.aliexpress.com/item/4000590804514.html)  
 [GMMK Pro](https://www.kaina24.lt/search?q=gmmk+pro) - good looking but not too great gaskets implementation, cluster when it comes to QMK/VIA, Silver White isn't white actually, it's silver  
-[Keychron Q1](https://candykeys.com/product/keychron-q1-ansi) - GMMK Pro alternative, better gaskets, QMK/VIA, requires some modding to remove pinging sounds, overall quite good typing experience
+[Keychron Q1](https://candykeys.com/product/keychron-q1-ansi) - GMMK Pro alternative, better gaskets, QMK/VIA, requires some modding to remove pinging sounds, overall quite good typing experience  
+[TEX Shinobi](https://candykeys.com/product/tex-shinobi-diy-kit-us-layout) - based on 7 Row Thinkpad keyboards, has Trackpoint and uses somewhat proprietary keycaps. Interesting kit but not so much flexibility except hot-swappable switches.
 
-[TEX Shinobi](https://candykeys.com/product/tex-shinobi-diy-kit-us-layout) - based on 7 Row Thinkpad keyboards, has Trackpoint and uses somewhat proprietary keycaps. Interesting kit but not so much flexibility except hot-swappable switches.  
+#### PCBs
+
+[KBD75 Rev 2.0](https://keygem.store/collections/pcb/products/kbd75-rev-2-0-pcb) Solder - compact layout, clustered arrow keys block, scuffed numpad support  
+[BT75](https://keygem.store/collections/pcb/products/bt75-75-bluetooth-pcb) Solder & Hotswap - compact layout, encoder support
+
+[ID80 V2](https://www.aliexpress.com/item/4001244581360.html?spm) - exploded layout, QMK/VIA
+
+#### Cases
+
+[Tofu84](https://keygem.store/collections/case/products/tofu84-case-by-kbdfans) - as simple as it gets, includes E-White and Acrylic 
+[KBD75 V2](https://www.eloquentclicks.com/product/kbd75-v2-aluminum-case/) - with acrylic strip for RGB underglow
 
 ## 96% and 1800
 
+![1800 board](https://user-images.githubusercontent.com/99119828/163672893-f354b05e-2a59-49d6-9c4d-0c8465a2bff3.png)
 
+*96% looks cool and has more options, but lack of gaps between arrow keys and numpad makes user experience frustrating; 1800 avoids that but is even more obscure and almost non-existant.*
+
+#### Kits
+
+[ID96](https://keygem.store/collections/idobao/products/idobao-id96) - stiff integrated plate, pinging sound, needs a lot of modding  
+[Melody 96](https://www.aliexpress.com/item/32957159275.html) - heavy, thick, with acrylic bottom  
+[YMDK 96](https://www.aliexpress.com/item/32846088297.html) - floating design thus louder than the others  
+[Epomaker GK96S](https://www.aliexpress.com/item/1005002190954573.html) - hollow, white matte plate, awful proprietary software, lackluster Bluetooth supports, quite terrible experience; has [Southpaw](https://www.aliexpress.com/item/1005002191357082.html) variant  
+
+[Akko ACR98](https://www.aliexpress.com/item/1005003541133996.html) - 1800 layout, floating design, loud, no QMK/VIA  
+[Akko Mod 003](https://www.aliexpress.com/item/1005003424229824.html) - gasket mounted, but still no QMK/VIA as well as no Screw-In stabilizers  
+[BM980](https://www.aliexpress.com/item/1005002509519466.html?) - QMK/VIA support, Screw-In stabilizers, north facing switches ,daughterboard for Type C, lowkey cheap case; mostly worth when making custom case for it, has potential to become budget-ish endgame.
+
+[Gamakay K77](https://www.banggood.com/GamaKay-K77-Mechanical-Keyboard-77-Keys-Hot-Swappable-Type-C-Wired-USB-3_1-NKRO-Translucent-Glass-Base-Gateron-Switch-RGB-Gaming-Keyboard-with-Numberpad-p-1852118.html?cur_warehouse=FR&ID=515634&rmmds=search) - technically, not a 1800, but it has an exploded layout and a numpad (no F Row tho). As other Gamakay models, it gives quite good results when [modded](https://www.youtube.com/watch?v=20CoC2t-dic)
+
+#### PCBs
+
+[Melody96](https://www.aliexpress.com/item/1005001838342437.html) - additional product for Melody 96 kit  
+96% and 1800 market is quite scarce..
