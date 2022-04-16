@@ -1,12 +1,12 @@
-# Resources
-
-Different videos and blog posts to help learn more about custom keyboards scene
+![overall](https://user-images.githubusercontent.com/99119828/163674358-8f5bee7a-dd30-40bf-8e91-51580816a9ce.png)
 
 ## Basics
 
 Why go custom instead of buying a prebuilt - [long](https://www.youtube.com/watch?v=Qr3nYR15wxU) and [short](https://www.youtube.com/watch?v=aeqnEJpPZVY) explanation by TaehaTypes
 
 All-in-one resource in written format - [keyboards.university](https://www.keyboard.university)
+
+[Terms explained](https://www.youtube.com/watch?v=Q1NldeJN0ys) - to understand some common words used to describe keyboard and its parts or characteristics
 
 [Anatomy](https://youtu.be/1NpNygIrnaQ) of a custom keyboard - includes layouts, PCB types, keycap sizings (!), switches and keycaps
 
