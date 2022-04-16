@@ -122,3 +122,11 @@ ID80 - Candykeys [V1](https://candykeys.com/product/idobao-id80-75-hot-swappable
 
 [Melody96](https://www.aliexpress.com/item/1005001838342437.html) - additional product for Melody 96 kit  
 96% and 1800 market is quite scarce..
+
+## Other
+
+[YMDK Wings](https://www.aliexpress.com/item/1005003330613995.html) - Arisu layout hotswap keyboard with QMK/VIA and Screw-In stabilizers; integrated plate - hollow and stiff, requires modding. PCB can be bought separately - both [Hotswap](https://www.aliexpress.com/item/1005003456101595.html) and [Solder](https://www.aliexpress.com/item/1005002460948806.html)
+
+[ID75](https://www.aliexpress.com/item/4000311498726.html?) - ortholinear 75 keys keyboard with QMK; getting compatible keycaps is quite difficult unless choosing uniform XDA/DSA profiles
+
+[Lily58](https://42keebs.eu/shop/kits/lily58-split-ergo-50-kit-black/) - rather cheap split keyboard kit, making your own case is suggested
