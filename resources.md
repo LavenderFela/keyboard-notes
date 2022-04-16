@@ -26,6 +26,7 @@ How to mod stabilizers by [TaehaTypes](https://youtu.be/usNx1_d0HbQ) and [Alexot
 - [Tempest tape mod](https://www.youtube.com/watch?v=g7-syoxeIBQ) for PCB
 - [Holee mod](https://youtu.be/-vhpHjlkRgQ) for stabilizers
 - [PE foam mod](https://youtu.be/XnQMXVchnrU) for PCB and case
+- [O-rings mod](https://www.youtube.com/watch?v=SQcdgUKV6dU) for Tofu aluminum cases
 
 #### Whole Process
 - [3ildcat](https://www.youtube.com/c/3ildcat/videos?view=0&sort=p&flow=grid) videos for short versions ([Space65](https://www.youtube.com/watch?v=fEiuolL_S7s), [Think 6.5](https://www.youtube.com/watch?v=fZ4w2YSOUBo), budget [Gamakay](https://www.youtube.com/watch?v=20CoC2t-dic))
