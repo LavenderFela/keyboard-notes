@@ -1,4 +1,5 @@
-![smoll](https://user-images.githubusercontent.com/99119828/163662393-6814dc2f-b150-47d2-a0f0-49253f5f33eb.png)
+![smoll](https://user-images.githubusercontent.com/99119828/163662720-3d0e66a1-2d08-4847-8ffb-e7a8ccb23522.png)
+
 
 *messy pastebin for keyboard related useful links, enjoy!*  
 
