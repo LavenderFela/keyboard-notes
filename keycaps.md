@@ -74,4 +74,7 @@ Tai-Hao [WoB](https://candykeys.com/product/tai-hao-white-on-black-ansi-iso)
 
 DSA [Simple Grey](https://keygem.store/collections/keycap-sets/products/dsa-simple-grey)
 
+## USA & other vendors
 
+[MT3 profile](https://drop.com/mechanical-keyboards/drops/?sc=keycaps&tgs=mt3-profile) from Drop.com, mix between SA and KAT, exlusive to this store in USA  
+[GMK Laser](https://drop.com/buy/drop-mito-gmk-laser-custom-keycap-set) - very popular in-stock set; price isn't too high as for something made by GMK, though novelties are insanely priced
