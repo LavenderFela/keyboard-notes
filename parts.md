@@ -6,11 +6,10 @@ Smallest layout for Lithuanians is 50% ortho (almost nonexistant) or HHKB due to
 
 ![60](https://user-images.githubusercontent.com/99119828/163712333-63c4e7a8-f20b-402a-a63e-45e6f2667771.png)
 
-*Perfect layout if you hate yourself. No Home/End keys, writing with it is as frustrating as it sounds.*
-
 #### Kits
 
-[BM60](https://www.aliexpress.com/item/1005001329750229.html) Hotswap - OG 60%, QMK compatible but has north facing switches, probably the worst option
+[BM60](https://www.aliexpress.com/item/1005001329750229.html) Hotswap - OG 60%, QMK compatible but has north facing switches, probably the worst option  
+[Bakeneko60](https://cannonkeys.com/products/bakeneko-60) Hotswap - OG 60%, QMK, O-ring mounted
 
 #### PCBs
 
