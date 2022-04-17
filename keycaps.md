@@ -45,7 +45,9 @@ JKDK [Pink and Red on White](https://www.aliexpress.com/item/1005003602354982.ht
 *ePBT is one of the main keycap manufacturers together with GMK, main difference being using PBT instead of ABS plastic*  
 ePBT [Wuyinzhuyin](https://www.aliexpress.com/item/1005003578515049.html?spm=a2g0o.store_pc_groupList.8148356.5.796b791cCvOa4x)
 
-Akko [Cherry Profile](https://www.aliexpress.com/item/1005003171635439.html) (Silent, Blackpink, 9009)  
+Akko [Cherry Profile](https://www.aliexpress.com/item/1005003171635439.html) (Silent, Blackpink, 9009)
+
+[Vintage Apple](https://www.aliexpress.com/item/1005003611466611.html) - quite rare Cherry profile one
 
 ### Other profiles
 
