@@ -117,6 +117,7 @@ ID80 - Candykeys [V1](https://candykeys.com/product/idobao-id80-75-hot-swappable
 [Akko ACR98](https://www.aliexpress.com/item/1005003541133996.html) - 1800 layout, floating design, loud, no QMK/VIA  
 [Akko Mod 003](https://www.aliexpress.com/item/1005003424229824.html) - gasket mounted, but still no QMK/VIA as well as no Screw-In stabilizers  
 [BM980](https://www.aliexpress.com/item/1005002509519466.html?) - QMK/VIA support, Screw-In stabilizers, north facing switches ,daughterboard for Type C, lowkey cheap case; mostly worth when making custom case for it, has potential to become budget-ish endgame  
+[Rekt1800](https://cannonkeys.com/products/rekt1800-keyboard) - it exists, it can be bought time from time, is expensive  
 [SAR](https://zambumon.com/sar/) - 1800 lovers' wet dream, probably will take a decade to come true
 
 [Gamakay K77](https://www.banggood.com/GamaKay-K77-Mechanical-Keyboard-77-Keys-Hot-Swappable-Type-C-Wired-USB-3_1-NKRO-Translucent-Glass-Base-Gateron-Switch-RGB-Gaming-Keyboard-with-Numberpad-p-1852118.html?cur_warehouse=FR&ID=515634&rmmds=search) - technically, not a 1800, but it has an exploded layout and a numpad (no F Row tho). As other Gamakay models, it gives quite good results when [modded](https://www.youtube.com/watch?v=20CoC2t-dic)
