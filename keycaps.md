@@ -36,6 +36,12 @@ Domikey [Astronaut](https://www.aliexpress.com/item/1005003492087895.html?spm=a2
 Domikey [Hush](https://www.aliexpress.com/item/1005003776369543.html?spm=a2g0o.store_pc_groupList.8148356.71.37477ad0lvBGjf)  
 Domikey [Miami Nights](https://www.aliexpress.com/item/1005003624015078.html?spm=a2g0o.store_pc_groupList.8148356.9.67d25f062KHt6O)
 
+JKDK [BoW](https://www.aliexpress.com/item/1005003659066594.html) Dye Sub - clean legends, PBT  
+JKDK [Dual Tone](https://www.aliexpress.com/item/1005003777460234.html?) Dye Sub - has TKL-less kit and yellow accents kit  
+JKDK [Dual Tone](https://www.aliexpress.com/item/1005003777433253.html) Dye Sub - with blue accents kit  
+JKDK [Pastel Pink on White](https://www.aliexpress.com/item/1005003659084634.htm) Dye Sub - soft pastel colors, looks cute!  
+JKDK [Pink and Red on White](https://www.aliexpress.com/item/1005003602354982.html) - cute, reminds GMK Darling
+
 *ePBT is one of the main keycap manufacturers together with GMK, main difference being using PBT instead of ABS plastic*  
 ePBT [Wuyinzhuyin](https://www.aliexpress.com/item/1005003578515049.html?spm=a2g0o.store_pc_groupList.8148356.5.796b791cCvOa4x)
 
