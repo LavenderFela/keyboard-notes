@@ -3,7 +3,8 @@
 Smallest layout for Lithuanians is 50% ortho (almost nonexistant) or HHKB due to need to use numrow for Lithuanian symbols; Backslash key usually can be used as Delete, quite convenient and feels about right; Caps Lock can be used as Ctrl (for WKL/HHKB) or Fn key.
 
 ## 60% and HHKB  
-![wkl](https://user-images.githubusercontent.com/99119828/163672807-3bb217bd-ec55-4072-aca8-6be2f1294d1b.png)
+
+![60](https://user-images.githubusercontent.com/99119828/163712333-63c4e7a8-f20b-402a-a63e-45e6f2667771.png)
 
 *Perfect layout if you hate yourself. No Home/End keys, writing with it is as frustrating as it sounds.*
 
@@ -35,7 +36,7 @@ Just check same vendor when buying the case, should have some options.
 
 ## 65%
 
-![65](https://user-images.githubusercontent.com/99119828/163672822-49b55879-727a-43d3-834b-f113b0573c22.png)
+![zoom65](https://user-images.githubusercontent.com/99119828/163712337-942821a6-8350-4596-9509-89ae763b9f1a.png)
 
 *Additional column, usually used for 2xMacros + Home/End while using Delete on Backslash. Arrow blocker highly appreciated, helps when touch typing.*
 
@@ -50,6 +51,8 @@ KBD67 Lite R3 - [Keygem](https://keygem.store/products/r3-kbd67-lite-mechanical-
 [ID67](https://www.aliexpress.com/item/1005002871249832.html?spm=a2g0o.store_pc_groupList.8148356.1.7175b037ix029l) - very stiff, quite pingy, requires modding  
 [ID67 V2](https://keygem.store/collections/idobao/products/idobao-id67-v2) - has acrylic bottom, probably that's about it; integrated plate is quite stiff
 [ID67 Crystal](https://keygem.store/collections/idobao/products/idobao-id67-crystal-ansi) - Acrylic or PC, gasket mounted
+
+[Zoom65](https://mykeyboard.eu/search/?q=Zoom65) - one of the nicest kits in the market, has knob, looks not too cramped, good value
 
 [BM65](https://www.aliexpress.com/item/1005002133981307.html?) Hotswap - QMK, Screw In stabilizers, arrows blocker but north facing switches, not worth over KBD67 Lite
 
@@ -74,7 +77,7 @@ Just check same vendor when buying the case, should have some options.
 
 ## 75%
 
-![75](https://user-images.githubusercontent.com/99119828/163672869-6c74e4b4-2647-4255-b7c6-ee6ecc6432a9.png)
+![7555](https://user-images.githubusercontent.com/99119828/163712347-8b9886b7-f184-4212-8cb9-801720ecd933.png)
 
 *65% but with F Row if you need it, otherwise just a bit chonky looking layout.*
 
