@@ -26,3 +26,6 @@
 
 ![09](https://user-images.githubusercontent.com/99119828/163718999-e3fb1f76-e3f6-40b3-b73e-764c92717584.png)  
 [Tofu65 Acrylic with BoW](https://www.reddit.com/r/MechanicalKeyboards/comments/qbyvj0/clean_white_tofu65/)
+
+![ov3bfln5xtu81](https://user-images.githubusercontent.com/99119828/164617253-22b72bf0-8f83-4a86-bc4f-4b3e71f21439.png)
+[ID75 ortholinear](https://www.reddit.com/r/olkb/comments/u8hejo/numpad_on_the_left/)
