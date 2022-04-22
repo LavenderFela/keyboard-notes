@@ -48,6 +48,9 @@ ePBT [Wuyinzhuyin](https://www.aliexpress.com/item/1005003578515049.html?spm=a2g
 Akko [Cherry Profile](https://www.aliexpress.com/item/1005003171635439.html) (Silent, Blackpink, 9009)
 
 [Vintage Apple](https://www.aliexpress.com/item/1005003611466611.html) - quite rare Cherry profile one
+[Vintage Apple](https://www.aliexpress.com/item/1005003346331872.html) - with Japanese versions
+
+[Color accents](https://www.aliexpress.com/item/1005003504925140.html) - for dual tone/WoB/BoW sets
 
 ### Other profiles
 
